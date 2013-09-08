@@ -16,6 +16,7 @@ h2 {
 
 #head-title {
 	float: left;
+	color: #C58672;
 }
 
 #head-subtitle {
@@ -24,7 +25,7 @@ h2 {
 
 #nav {
 	clear: both;
-	margin-left: 300px;
+	margin-left: 356px;
 }
 
 #nav li {
