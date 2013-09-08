@@ -3,15 +3,15 @@
 
 body {
 	font-family: "Fjord One", "Helvetica Neue";
-	font-size: 16px;
+	font-size: 14px;
 }
 
 h1 {
-	font-size: 22px;
+	font-size: 20px;
 }
 
 h2 {
-	font-size: 18px;
+	font-size: 16px;
 }
 
 #head-title {
@@ -24,6 +24,7 @@ h2 {
 
 #nav {
 	clear: both;
+	float: right;
 }
 
 .container {
